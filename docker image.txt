@@ -1,0 +1,10 @@
+
+
+Docker Hub Profile:
+https://hub.docker.com/repositories/iqra2312151
+
+Docker Image:
+https://hub.docker.com/repository/docker/iqra2312151/ml-api/tags
+
+Pull Command:
+docker pull iqra2312151/ml-api:latest
